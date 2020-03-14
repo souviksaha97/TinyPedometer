@@ -2036,9 +2036,7 @@ design rules under a new name.</description>
 <board_group name="1"/>
 </groups>
 <elements>
-<element name="U1" library="_hhn_attiny25_45_85" package="PDIP08_300MIL" value="ATTINY85-20P" x="26.162" y="24.892" smashed="yes" rot="R270">
-<attribute name="NAME" x="26.797" y="28.067" size="1.4224" layer="25" ratio="9" rot="R270"/>
-</element>
+<element name="U1" library="_hhn_attiny25_45_85" package="PDIP08_300MIL" value="ATTINY85-20P" x="26.162" y="24.892" smashed="yes" rot="R270"/>
 <element name="J1" library="1050170001" package="MOLEX_1050170001" value="1050170001" x="42.164" y="1.778" smashed="yes">
 <attribute name="DESCRIPTION" value=" USB - micro B USB 2.0 Receptacle Connector 5 Position Surface Mount, Right Angle; Through Hole " x="42.164" y="1.778" size="1.778" layer="27" display="off"/>
 <attribute name="DIGI-KEY_PART_NUMBER" value="WM1399CT-ND" x="42.164" y="1.778" size="1.778" layer="27" display="off"/>
